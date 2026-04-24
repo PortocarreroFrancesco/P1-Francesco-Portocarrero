@@ -1,4 +1,5 @@
-#Trabajo Practico N°1: Escrituras y Estructuras
+Trabajo Practico N°1: Escrituras y Estructuras
+
 Desarrollar un código y un esquema electrónico básico que haga una secuencia de luces con 3 leds RGB.
 
 La secuencia es la siguiente: 
